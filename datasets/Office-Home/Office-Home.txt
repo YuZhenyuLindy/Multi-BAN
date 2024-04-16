@@ -1,0 +1,9 @@
+Office-Home https://www.hemanthdv.org/officeHomeDataset.html
+
+@inproceedings{venkateswara2017deep,
+title={Deep hashing network for unsupervised domain adaptation},
+author={Venkateswara, Hemanth and Eusebio, Jose and Chakraborty, Shayok and Panchanathan, Sethuraman},
+booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+pages={5018--5027},
+year={2017}
+}
