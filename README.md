@@ -13,7 +13,9 @@ Adversarial learning has achieved great success for unsupervised domain adaptati
 
 
 ## Prepare
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 
 ## Datasets
@@ -24,7 +26,8 @@ Adversarial learning has achieved great success for unsupervised domain adaptati
 
 
 ## Bibtex
-To cite the paper, use the following: 
+If you find this work useful for your research, please cite:
+```bibtex
 @inproceedings{wang2024icme,
   title={Multi-batch Nuclear-norm Adversarial Network for Unsupervised Domain Adaptation},
   author={Pei Wang, Yun Yang, Zhenyu Yu},
@@ -32,6 +35,7 @@ To cite the paper, use the following:
   pages={xx--xx},
   year={2024}
 }
+```
 
 
 ## Acknowledgment
