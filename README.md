@@ -39,7 +39,7 @@ If you find this work useful for your research, please cite:
 
 
 ## Acknowledgment
-Some codes are mainly based on following repositories. Thanks for their authors.
+Some codes are mainly based on following repositories. Thanks for their contribution.
 * [DALN](https://github.com/xiaoachen98/DALN.git)
 * [SCDA](https://github.com/BIT-DA/SCDA.git)
 * [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library.git)
