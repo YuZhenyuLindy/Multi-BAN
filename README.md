@@ -6,7 +6,7 @@
 
 This repo is the official PyTorch implementation of "Multi-batch Nuclear-norm Adversarial Network for Unsupervised Domain Adaptation".
 
-<div align=center><img src="./figures/MBAN_Network.png" width="100%"></div>
+<div align=center><img src="./MBAN_ICME_2024_Poster_00.png" width="100%"></div>
 
 ## Abstract
 
