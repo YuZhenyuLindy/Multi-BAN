@@ -1,5 +1,6 @@
 # ICME2024 - Multi-batch Nuclear-norm Adversarial Network for Unsupervised Domain Adaptation
 
+[![Paper](https://img.shields.io/badge/Paper-official-green)](https://ieeexplore.ieee.org/abstract/document/10687425) [![Paper](https://img.shields.io/badge/PDF-Poster-blue)](https://github.com/YuZhenyuLindy/Yuan/blob/main/MBAN_ICME_2024_Poster_00.png) [![PPT](https://img.shields.io/badge/PDF-Slides-orange)](https://github.com/YuZhenyuLindy/Yuan/blob/main/MBAN_ICME_2024.pdf) [![YouTube](https://img.shields.io/badge/Video-YouTube-red)](https://youtu.be/gDCH2qcA00M)
 
 # MBAN 
 
@@ -24,16 +25,21 @@ pip install -r requirements.txt
 * [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html)
 * [VisDA2017](http://ai.bu.edu/visda-2017/)
 
+## Contact
+For any questions, feel free to reach out:
+
+📧 Email: Pei Wang (peiwang0518@163.com), Zhenyu Yu (yuzhenyuyxl@foxmail.com)
 
 ## Bibtex
 If you find this work useful for your research, please cite:
 ```bibtex
-@inproceedings{wang2024icme,
-  title={Multi-batch Nuclear-norm Adversarial Network for Unsupervised Domain Adaptation},
-  author={Pei Wang, Yun Yang, Zhenyu Yu},
-  booktitle={Proceedings of the IEEE ICME},
-  pages={xx--xx},
-  year={2024}
+@inproceedings{yu2024capan,
+  title={CaPAN: Class-aware Prototypical Adversarial Networks for Unsupervised Domain Adaptation},
+  author={Yu, Zhenyu and Wang, Pei},
+  booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
